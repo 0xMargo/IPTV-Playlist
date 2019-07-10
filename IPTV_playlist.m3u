@@ -291,13 +291,13 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET."  group-title="Unsorted",NET.
 http://210.210.155.35/qwr9ew/s/s08/index2.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET."  group-title="Unsorted",NET.
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET."  group-title="Unsorted",NET. [HD]
 http://202.80.222.150:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET. - LOCAL"  group-title="Unsorted",NET. - LOCAL
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET. - LOCAL"  group-title="Unsorted",NET. - LOCAL [HD]
 http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET. - MKC3"  group-title="Unsorted",NET. - MKC3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://devanyahya.web.id/tvg-logo/net.png" tvg-name="NET. - MKC3"  group-title="Unsorted",NET. - MKC3 [HD]
 http://202.80.222.150/000001/2/ch00000090990000001723/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NEW ASIA CHANNEL"  group-title="Unsorted",NEW ASIA CHANNEL
