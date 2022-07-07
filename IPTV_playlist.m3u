@@ -200,3 +200,9 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+
+#EXTINF:-1 group-title="Internasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/300px-History_%282021%29.svg.png" ,History
+https://list.iptvcat.com/my_list/s/8c939615f8681829c2e53608a510585f.m3u8
+
+#EXTINF:-1 group-title="Internasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/History2.png" ,History 2
+https://list.iptvcat.com/my_list/s/2750f26065f67d5f68b5c81a839793f2.m3u8
